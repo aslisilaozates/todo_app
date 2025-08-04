@@ -4,16 +4,16 @@ Python ile geliştirilmiş, JSON veri depolama kullanan modern bir To Do List uy
 
 ## Özellikler
 
-- 📝 **Görev Ekleme**: Başlık, açıklama ve öncelik ile görev ekleme
-- 📋 **Görev Listeleme**: Tüm, bekleyen veya tamamlanan görevleri listeleme
-- ✅ **Görev Tamamlama**: Görevleri tamamlandı olarak işaretleme
-- 🗑️ **Görev Silme**: Görevleri kalıcı olarak silme
-- ✏️ **Görev Düzenleme**: Mevcut görevleri düzenleme
-- 📊 **İstatistikler**: Görev tamamlanma oranı ve öncelik dağılımı
-- 💾 **JSON Veri Depolama**: Görevler JSON dosyasında kalıcı olarak saklanır
-- 🎯 **Öncelik Sistemi**: Düşük, orta, yüksek öncelik seviyeleri
-- 📅 **Zaman Takibi**: Görev oluşturma ve tamamlanma tarihleri
-- 🎨 **Kullanıcı Dostu Arayüz**: Emoji'ler ve renkli çıktılar
+-  **Görev Ekleme**: Başlık, açıklama ve öncelik ile görev ekleme
+-  **Görev Listeleme**: Tüm, bekleyen veya tamamlanan görevleri listeleme
+-  **Görev Tamamlama**: Görevleri tamamlandı olarak işaretleme
+-  **Görev Silme**: Görevleri kalıcı olarak silme
+-  **Görev Düzenleme**: Mevcut görevleri düzenleme
+-  **İstatistikler**: Görev tamamlanma oranı ve öncelik dağılımı
+-  **JSON Veri Depolama**: Görevler JSON dosyasında kalıcı olarak saklanır
+-  **Öncelik Sistemi**: Düşük, orta, yüksek öncelik seviyeleri
+-  **Zaman Takibi**: Görev oluşturma ve tamamlanma tarihleri
+-  **Kullanıcı Dostu Arayüz**: Emoji'ler ve renkli çıktılar
 
 ## Kullanım
 
@@ -107,4 +107,5 @@ Görevler JSON formatında şu yapıda saklanır:
 
 - JSON dosyası UTF-8 encoding ile kaydedilir
 - Hatalı JSON dosyası durumunda otomatik yeniden oluşturma
+
 - Dosya yazma hatalarına karşı koruma 
